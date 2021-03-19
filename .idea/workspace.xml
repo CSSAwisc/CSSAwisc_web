@@ -2,33 +2,527 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117b4755-d5da-4903-b88b-c1efc0f2c327" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/2/22/fcmy-mts-jdb-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/2018/2/22/fcmy-mts-jdb-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/方寸麦韵.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/方寸麦韵.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/elegant-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/elegant-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/jquery.mb.YTPlayer.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/jquery.mb.YTPlayer.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/magnific-popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/margins.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/margins.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/owl.carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/vegas.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/vegas.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ElegantIcons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ElegantIcons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ElegantIcons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ElegantIcons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ElegantIcons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ElegantIcons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ElegantIcons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ElegantIcons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/housing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/elements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gmap3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/gmap3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.12.4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.easing.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.fitvids.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.fitvids.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.mb.YTPlayer.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.mb.YTPlayer.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.parallax-1.1.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.parallax-1.1.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.particleground.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.particleground.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/masonry.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/masonry.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/smoothscroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/smoothscroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/sniffr.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/sniffr.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vegas.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/vegas.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/wow.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/wow.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/author.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/author.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/author/fcmy.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/author/fcmy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/footer/by-nc-nd.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/footer/by-nc-nd.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/footer/dotted-map.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/footer/dotted-map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/footer/geometric-pattern.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/footer/geometric-pattern.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/footer/sgwab.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/footer/sgwab.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/Logo-02.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/Logo-02.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/activities.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/activities.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/cssalogo-red-sm.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/cssalogo-red-sm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/cssalogo-red.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/cssalogo-red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/cssalogo-white-sm.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/cssalogo-white-sm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/kqx.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/kqx.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/ljt.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/ljt.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/lst.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/lst.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/scott.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/scott.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/sunflowser.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/sunflowser.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/wjy.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/wjy.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/xw.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/xw.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/中韩之夜.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/中韩之夜.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/春晚.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/春晚.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/home/春晚烟花.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/home/春晚烟花.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/accelerator.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/accelerator.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/alarm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/alarm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/anchor.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/anchor.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/anticlockwise.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/anticlockwise.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/archive-full.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/archive-full.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/archive.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/archive.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bag-check.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bag-check.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bag-cloud.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bag-cloud.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bag-download.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bag-download.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bag-minus.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bag-minus.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bag-plus.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bag-plus.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bag-refresh.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bag-refresh.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bag-remove.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bag-remove.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bag-search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bag-search.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bag-upload.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bag-upload.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bag.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bag.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/ban.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/ban.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/banknote.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/banknote.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/banknotes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/banknotes.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/basket-check.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/basket-check.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/basket-cloud.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/basket-cloud.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/basket-download.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/basket-download.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/basket-minus.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/basket-minus.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/basket-plus.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/basket-plus.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/basket-refresh.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/basket-refresh.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/basket-remove.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/basket-remove.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/basket-search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/basket-search.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/basket-upload.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/basket-upload.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/basket.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/basket.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bath.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bath.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/battery-charge.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/battery-charge.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/battery-empty.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/battery-empty.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/battery-full.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/battery-full.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/battery-half.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/battery-half.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/beginning-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/beginning-button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bell.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bell.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bolt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bolt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/book-pen.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/book-pen.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/book-pencil.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/book-pencil.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/book.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/book.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/bookmark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/bookmark.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/calculator.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/calculator.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/calendar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/calendar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cards-diamonds.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cards-diamonds.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cards-hearts.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cards-hearts.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cart-check.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cart-check.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cart-cloud.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cart-cloud.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cart-content.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cart-content.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cart-download.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cart-download.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cart-minus.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cart-minus.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cart-plus.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cart-plus.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cart-refresh.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cart-refresh.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cart-remove.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cart-remove.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cart-search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cart-search.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cart-upload.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cart-upload.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cart.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/case.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/case.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cd.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cd.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cent.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cent.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/chronometer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/chronometer.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/clessidre.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/clessidre.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/clock.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/clock.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/clockwise.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/clockwise.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cloud.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cloud.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/clubs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/clubs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/colon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/colon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/compass.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/compass.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/creditcard.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/creditcard.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/cup.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/cup.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/diamond.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/diamond.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/diamonds.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/diamonds.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/diapason.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/diapason.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/display.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/display.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/dollar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/dollar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/download.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/download.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/eject-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/eject-button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/end-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/end-button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/euro.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/euro.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/exclamation.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/exclamation.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/eye-closed.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/eye-closed.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/eye.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/eye.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/fastforward-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/fastforward-button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/female.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/female.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/flag-alt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/flag-alt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/flag.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/flag.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/floppydisk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/floppydisk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/folder-multiple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/folder-multiple.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/folder.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/folder.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/franc.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/franc.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/gear.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/gear.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/geolocalize-alt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/geolocalize-alt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/geolocalize.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/geolocalize.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/gift.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/gift.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/globe.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/globe.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/graph-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/graph-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/graph-3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/graph-3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/graph-decrease.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/graph-decrease.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/graph-increase.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/graph-increase.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/graph.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/graph.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/guarani.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/guarani.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/gunsight.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/gunsight.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/hammer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/hammer.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/headphones.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/headphones.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/headset.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/headset.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/heart-broken.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/heart-broken.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/heart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/heart.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/helm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/helm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/home.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/home.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/info.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/info.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/ipod.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/ipod.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/joypad.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/joypad.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/key.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/key.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/keyboard.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/keyboard.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/kips.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/kips.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/laptop.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/laptop.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layers-alt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layers-alt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layers.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layers.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-2columns.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-2columns.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-3columns.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-3columns.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-4boxes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-4boxes.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-4columns.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-4columns.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-4lines.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-4lines.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-8boxes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-8boxes.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-header-2columns.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-header-2columns.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-header-3columns.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-header-3columns.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-header-4boxes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-header-4boxes.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-header-4columns.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-header-4columns.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-header-complex.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-header-complex.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-header-complex2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-header-complex2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-header-complex3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-header-complex3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-header-complex4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-header-complex4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-header-sideleft.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-header-sideleft.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-header-sideright.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-header-sideright.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-header.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-header.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-sidebar-left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-sidebar-left.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/layout-sidebar-right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/layout-sidebar-right.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/life-buoy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/life-buoy.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/lightbulb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/lightbulb.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/lightning.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/lightning.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/link.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/link.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/lira.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/lira.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/lock-open.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/lock-open.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/lock.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/lock.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/loudspeaker.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/loudspeaker.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/magic-mouse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/magic-mouse.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/magnifier-minus.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/magnifier-minus.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/magnifier-plus.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/magnifier-plus.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/magnifier.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/magnifier.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/mail-multiple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/mail-multiple.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/mail-open-text.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/mail-open-text.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/mail-open.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/mail-open.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/mail.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/mail.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/male.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/male.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/map.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/map.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/megaphone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/megaphone.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/message-multiple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/message-multiple.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/message-txt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/message-txt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/message.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/message.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/microphone-old.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/microphone-old.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/microphone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/microphone.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/mixer-alt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/mixer-alt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/money.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/money.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/mouse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/mouse.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/mute.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/mute.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/naira.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/naira.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/note-multiple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/note-multiple.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/note-single.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/note-single.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/notebook-pen.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/notebook-pen.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/notebook-pencil.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/notebook-pencil.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/notebook.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/notebook.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/paintbrush.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/paintbrush.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/paintroller.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/paintroller.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/paperplane.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/paperplane.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/pause-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/pause-button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/pencil-ruler-pen.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/pencil-ruler-pen.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/pencil-ruler.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/pencil-ruler.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/pesos.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/pesos.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/photo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/photo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/picture-multiple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/picture-multiple.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/picture.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/picture.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/pin-alt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/pin-alt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/pin.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/pin.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/play-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/play-button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/playlist.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/playlist.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/postcard-multiple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/postcard-multiple.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/postcard.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/postcard.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/pound.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/pound.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/printer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/printer.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/question.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/question.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/radio-ghettoblaster.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/radio-ghettoblaster.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/radio-portable.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/radio-portable.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-bath.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-bath.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-cent.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-cent.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-dollar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-dollar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-euro.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-euro.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-franc.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-franc.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-guarani.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-guarani.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-kips.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-kips.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-lira.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-lira.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-naira.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-naira.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-pesos.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-pesos.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-pound.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-pound.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-rublo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-rublo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-rupee.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-rupee.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-tugrik.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-tugrik.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-won.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-won.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-yen-alt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-yen-alt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt-yen.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt-yen.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/receipt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/receipt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/recept-colon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/recept-colon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/record.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/record.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/recordplayer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/recordplayer.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/repeat-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/repeat-button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/rewind-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/rewind-button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/rss.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/rss.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/rublo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/rublo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/rupee.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/rupee.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/safe.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/safe.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/sale.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/sale.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/sales.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/sales.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/server-alt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/server-alt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/server-cloud.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/server-cloud.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/server-download.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/server-download.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/server-upload.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/server-upload.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/server.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/server.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/settings.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/settings.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/share.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/share.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/sheet-multiple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/sheet-multiple.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/sheet-pen.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/sheet-pen.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/sheet-pencil.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/sheet-pencil.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/sheet.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/sheet.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/shuffle-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/shuffle-button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/signs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/signs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/smartphone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/smartphone.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/spades.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/spades.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/spread-bookmark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/spread-bookmark.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/spread-text-bookmark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/spread-text-bookmark.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/spread-text.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/spread-text.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/spread.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/spread.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/star.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/star.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/stop-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/stop-button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/tablet.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/tablet.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/tape.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/tape.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/target.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/target.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/ticket.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/ticket.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/todo-pen.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/todo-pen.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/todo-pencil.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/todo-pencil.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/todo-txt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/todo-txt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/todo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/todo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/todolist-pen.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/todolist-pen.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/todolist-pencil.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/todolist-pencil.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/trashcan-full.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/trashcan-full.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/trashcan-refresh.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/trashcan-refresh.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/trashcan-remove.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/trashcan-remove.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/trashcan.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/trashcan.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/tugriks.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/tugriks.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/upload.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/upload.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/usb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/usb.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/video.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/video.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/volume-down.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/volume-down.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/wallet.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/wallet.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/watch.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/watch.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/webpage-img-txt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/webpage-img-txt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/webpage-multiple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/webpage-multiple.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/webpage-txt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/webpage-txt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/webpage.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/webpage.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/won.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/won.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/world.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/world.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/yen-alt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/yen-alt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/icons/yen.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/icons/yen.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ler-space.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/ler-space.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/misc/marker.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/misc/marker.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/misc/preloader.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/misc/preloader.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/misc/uw-crest.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/misc/uw-crest.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/about/badger.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/about/badger.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/about/chunwan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/about/chunwan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/about/cssa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/about/cssa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/about/daweiwang.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/about/daweiwang.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/about/honglei.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/about/honglei.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/about/queshen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/about/queshen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/about/yanhua.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/about/yanhua.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/about/yuanxiao.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/about/yuanxiao.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/about/zhonghan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/about/zhonghan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/contact/wechat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/contact/wechat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/contact/wechat.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/contact/wechat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/contact/xzs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/contact/xzs.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/hfyyelaine-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/hfyyelaine-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/hfyyelaine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/hfyyelaine.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/lexi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/lexi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/liul-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/liul-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/liul-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/liul-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/liul.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/liul.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/lmh-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/lmh-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/lmh-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/lmh-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/real-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/real-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/real-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/real-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/real-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/real-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/real.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/real.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/shabehehe-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/shabehehe-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/shabehehe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/shabehehe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/tscheuk-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/tscheuk-1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/tscheuk.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/tscheuk.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/ula-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/ula-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/ula-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/ula-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/ula-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/ula-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/ychen-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/ychen-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/ychen-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/ychen-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/ychen-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/ychen-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/zhinian-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/zhinian-1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/zhinian-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/zhinian-2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/zhinian-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/zhinian-3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/housing/zhinian.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/housing/zhinian.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/members/duomeiti.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/members/duomeiti.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/members/huodong.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/members/huodong.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/members/wailian.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/members/wailian.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/members/xingzheng.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/members/xingzheng.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/members/yanjiusheng.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/members/yanjiusheng.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/members/zhuxituan.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/members/zhuxituan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/sheets/Brave_Song_X_一番の宝物.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/sheets/Brave_Song_X_一番の宝物.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/sheets/Kirameki_Piano_and_Violin_Duet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/sheets/Kirameki_Piano_and_Violin_Duet.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/sheets/Orange.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/sheets/Orange.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/software/evervim.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/software/evervim.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/software/imagegrid-lucifer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/software/imagegrid-lucifer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/software/lumos-ler-space.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/software/lumos-ler-space.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/angel-beats-piano.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/angel-beats-piano.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/angelwing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/angelwing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/contact.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/contact.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/default-page-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/default-page-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/engine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/engine.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/handshake.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/handshake.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/interlink.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/interlink.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/legal-stuff.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/legal-stuff.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/library.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/library.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/madison-hub.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/madison-hub.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/members.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/members.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/rezero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/rezero.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/page/thumb/uwmadison.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/page/thumb/uwmadison.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170320-trip-to-mn/chocolate-moose-restaurant.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170320-trip-to-mn/chocolate-moose-restaurant.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170320-trip-to-mn/chocolate-moose-restaurant.thumb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170320-trip-to-mn/chocolate-moose-restaurant.thumb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170320-trip-to-mn/international-falls.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170320-trip-to-mn/international-falls.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170320-trip-to-mn/minnehaha-fall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170320-trip-to-mn/minnehaha-fall.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170320-trip-to-mn/orr-pelican-lake.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170320-trip-to-mn/orr-pelican-lake.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170320-trip-to-mn/stream-at-shagawa-lake.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170320-trip-to-mn/stream-at-shagawa-lake.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170320-trip-to-mn/sugar-loaf-coast.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170320-trip-to-mn/sugar-loaf-coast.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170320-trip-to-mn/sugarloaf-panorama.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170320-trip-to-mn/sugarloaf-panorama.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170320-trip-to-mn/temperance-river-park.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170320-trip-to-mn/temperance-river-park.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170320-trip-to-mn/us-canada-border.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170320-trip-to-mn/us-canada-border.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170325-libreplanet-2017/burlington-capital-styled.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170325-libreplanet-2017/burlington-capital-styled.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170325-libreplanet-2017/burlington-capital.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170325-libreplanet-2017/burlington-capital.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170325-libreplanet-2017/digicomp2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170325-libreplanet-2017/digicomp2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170325-libreplanet-2017/loveliveboard.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170325-libreplanet-2017/loveliveboard.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170325-libreplanet-2017/richard-group-photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170325-libreplanet-2017/richard-group-photo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170325-libreplanet-2017/richard-talk.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170325-libreplanet-2017/richard-talk.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170325-libreplanet-2017/stata-center-entrance.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170325-libreplanet-2017/stata-center-entrance.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170325-libreplanet-2017/sticker-card-manual.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170325-libreplanet-2017/sticker-card-manual.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/20170325-libreplanet-2017/sticker-card-manual.thumb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/post/20170325-libreplanet-2017/sticker-card-manual.thumb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/posts/featherandink.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/posts/featherandink.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/posts/macandnotebook.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/posts/macandnotebook.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/posts/posts-dark-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/posts/posts-dark-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/sponsor/AUIA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/sponsor/AUIA.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/sponsor/JNC.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/sponsor/JNC.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/sponsor/LaiOffer.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/sponsor/LaiOffer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/sponsor/RICEPO.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/sponsor/RICEPO.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/sponsor/Tequila.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/sponsor/Tequila.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/sponsor/usbank.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/sponsor/usbank.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/sponsor/vmartgo.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/sponsor/vmartgo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/sponsor/人参.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/sponsor/人参.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/sponsor/人参.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/sponsor/人参.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/sponsor/悦禾.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/sponsor/悦禾.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/members.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portus.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/portus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/微信同步.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/微信同步.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/方寸麦韵.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/方寸麦韵.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urls.txt" beforeDir="false" afterPath="$PROJECT_DIR$/urls.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1aJydihjMyzuAddt6zOMvx1pi1j" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CssaWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -42,6 +536,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -55,16 +550,16 @@
       <workItem from="1586468087211" duration="2131000" />
       <workItem from="1586921908601" duration="64000" />
       <workItem from="1613793586224" duration="390000" />
+      <workItem from="1614345340896" duration="529000" />
+      <workItem from="1615109512011" duration="950000" />
+      <workItem from="1616157595469" duration="2392000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="221" y="89" key="SettingsEditor" timestamp="1586470536599">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586470536599" />
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CssaWeb$main.coverage" NAME="main Coverage Results" MODIFIED="1616160214963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
